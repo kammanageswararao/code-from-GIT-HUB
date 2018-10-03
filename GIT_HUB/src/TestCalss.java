@@ -16,6 +16,8 @@ public class TestCalss {
 
 		
 		System.out.println("WELCOME TO GIT LEARNER !!!!!!");
+		
+		System.out.println("After Comitt i have added the value.");
 	}
 
 }
