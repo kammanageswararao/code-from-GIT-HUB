@@ -6,7 +6,7 @@
  * @author knageswarar2
  *
  */
-public class TestCalss {
+public class ThridClass {
 
 	/**
 	 * @param args
@@ -15,9 +15,9 @@ public class TestCalss {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("WELCOME TO GIT LEARNER !!!!!!");
+		System.out.println("Thrid Class Committed");
 		
-		System.out.println("After Comitt i have added the value.");
+		System.out.println("This is modofied with Code");
 	}
 
 }
