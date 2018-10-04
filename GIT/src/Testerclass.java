@@ -15,6 +15,7 @@ public class Testerclass {
 		// TODO Auto-generated method stub
 
 		System.out.println("pRINTED");
+		System.out.println("*****************PRINTED************");
 		
 	}
 
